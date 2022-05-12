@@ -1,6 +1,4 @@
-# coursework-ping-pong-delay-CROBER237
-coursework-ping-pong-delay-CROBER237 created by GitHub Classroom
-
+# TENNISBOY jr
 
 TENNISBOY jr is a Ping Pong Delay plugin created in Juce. There are 5 controllable parameters, three for the delay (Delay Time, Feedback & Mix) and two for an additional Low Pass Filter (Cutoff & Q) which
 affects the delay signal only. The additional LPF functionality was inspired partly by the Sound Toys EchoBoy, which has LPF and HPF controls affecting the delay signal.
