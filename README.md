@@ -8,5 +8,5 @@ Build the plugin using VisualStudio2019, and load the VST3 plugin in Reaper to u
 
 With a high Q value, interesting, percussive delay sounds can be created, particularly when processing a sound with a clear transient, such as a drum hit.
 
-This repository is maintained by C ROBERTS
-CROBER237@caledonian.ac.uk
+This repository is maintained by C HUNTER
+hello@camhunteraudio.com
