@@ -4,7 +4,7 @@ TENNISBOY jr is a Ping Pong Delay plugin created in Juce. There are 5 controllab
 affects the delay signal only. The additional LPF functionality was inspired partly by the Sound Toys EchoBoy, which has LPF and HPF controls affecting the delay signal.
 However, the TENNISBOY jr biulds on this by including a Resonance control, allowing additional control over the timbre of the LPF delays. 
 
-Build the plugin using VisualStudio2019, and load the VST3 plugin in Reaper to use.
+Build the plugin using VisualStudio2019, and load the VST3 plugin in a DAW to use.
 
 With a high Q value, interesting, percussive delay sounds can be created, particularly when processing a sound with a clear transient, such as a drum hit.
 
